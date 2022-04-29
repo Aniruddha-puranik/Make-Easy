@@ -1,0 +1,2 @@
+# Make-Easy
+Minor project
